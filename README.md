@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sérgio Ferreira</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergioferreira0122" alt="sergioferreira0122" /></a> </p>
-
 - 📫 How to reach me **sergioferreira0122@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
